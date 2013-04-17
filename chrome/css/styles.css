@@ -1471,3 +1471,12 @@ input[type="file"] {
     margin-top: 8px;
     display: inline-block;
 }
+
+/* Displaying the Save Response Buttons */
+#response-sample-save-start-container {
+    display: block;
+}
+#response-collection-request-actions {
+    display: block !important;
+}
+
